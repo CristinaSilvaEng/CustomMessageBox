@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMessageBox.View", "CustomMessageBox.View\CustomMessageBox.View.csproj", "{F16B9446-E300-409A-B30A-2F987E89D108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMessageBox.Presenter", "CustomMessageBox.Presenter\CustomMessageBox.Presenter.csproj", "{75BFD9EF-3959-43A5-AF91-900FC8AF6020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16B9446-E300-409A-B30A-2F987E89D108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16B9446-E300-409A-B30A-2F987E89D108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16B9446-E300-409A-B30A-2F987E89D108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16B9446-E300-409A-B30A-2F987E89D108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BFD9EF-3959-43A5-AF91-900FC8AF6020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BFD9EF-3959-43A5-AF91-900FC8AF6020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BFD9EF-3959-43A5-AF91-900FC8AF6020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BFD9EF-3959-43A5-AF91-900FC8AF6020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
